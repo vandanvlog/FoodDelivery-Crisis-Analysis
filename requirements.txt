@@ -11,5 +11,7 @@ flask
 gunicorn
 streamlit
 python-dotenv
+ensure
+python-box
 -e .
 
